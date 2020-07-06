@@ -44,3 +44,10 @@
     width: 150px;
     padding: 10px 0;
 }
+
+/* Shoes Area */
+
+.card {
+    border: none;
+    box-shadow: 10px 10px 10px gainsboro;
+}
